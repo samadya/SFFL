@@ -5,10 +5,10 @@ import { dynasty } from './utils/helper';
     const today = new Date();
     const resources = [
         {
-            name: "FTN Fantasy",
-            url: "https://www.ftnfantasy.com/nfl",
+            name: "SFFL Shared Folder",
+            url: "https://drive.google.com/drive/folders/1PWruJp3YXuLR_4VnQJP7VNRzCQLe50tr?usp=share_link",
             icon: "insights",
-            premium: true,
+            premium: false,
             separator: true,
         },
         {
